@@ -1,4 +1,4 @@
-# Hi, I'm Trey 👋
+# Hi, I'm Trey <img src="assets/cat-wave.png" height="40" alt="Cat waving">
 
 I write code to scratch my own itch. When something in the Nuxt ecosystem slows me down, at work or on a side project, I build the fix and share it.
 
