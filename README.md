@@ -101,6 +101,8 @@ I also contribute upstream, for example [nuxt-modules/better-auth](https://githu
 
 ## 🖥️ fastfetch
 
+<img src="https://cdn3.emoji.gg/emojis/77013-nyancat.gif" width="64" alt="Nyan cat">
+
 ```
            .-------------------------:                    trey@gaystation
           .+=========================.                    ---------------
@@ -125,5 +127,3 @@ I also contribute upstream, for example [nuxt-modules/better-auth](https://githu
            .-=======================+++:                  
              ..........................                   
 ```
-
-<p align="right"><img src="assets/rainbow-blobcat.svg" width="96" alt="Rainbow blob cat"></p>
