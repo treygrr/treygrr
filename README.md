@@ -62,7 +62,7 @@ Airplane mode for your GraphQL app. Typed composables from your `.gql` files, an
 
 </details>
 
-## 🤝 Contributions
+## <img src="assets/extreme-teamwork.gif" height="28" alt="Extreme teamwork"> Contributions
 
 I also contribute upstream, for example [nuxt-modules/better-auth](https://github.com/nuxt-modules/better-auth/pull/649) (fixed reading buffered bodies of in-process requests on Nitro 2).
 
