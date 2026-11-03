@@ -26,7 +26,7 @@ Airplane mode for your GraphQL app. Typed composables from your `.gql` files, an
 - 🎮 [playcanvas-vue](https://github.com/treygrr/playcanvas-vue). A Vue renderer for PlayCanvas: interactive 3D, written declaratively.
 - ✉️ [vjml](https://github.com/treygrr/vjml) (abandoned). MJML-style email components for Vue, with typed exports and browser-side rendering.
 
-## 🧰 More projects
+## <img src="assets/typingcat.gif" height="28" alt="Typing cat"> More projects
 
 <details>
 <summary>GraphQL & Nuxt starters</summary>
