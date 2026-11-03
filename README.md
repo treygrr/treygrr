@@ -4,6 +4,7 @@ I'm a full-stack developer who writes code to scratch my own itch. When somethin
 
 - 🏠 Running a homelab that is absolutely more Kubernetes than one person needs
 - 🤫 Building something top secret. That's all I can say for now
+- ⚡ Powered by ADHD, which explains why this README is so long
 - 🎮 Away from the keyboard I'm gaming, making music in Ableton, poking at 3D in Blender, or sketching whatever's in front of me
 - 📺 Favorite shows: Avatar: The Last Airbender, Avatar: Seven Havens, and From on MGM+
 - 📚 Currently reading the Empyrean series by Rebecca Yarros
@@ -12,6 +13,22 @@ I'm a full-stack developer who writes code to scratch my own itch. When somethin
 
 [![GitHub followers](https://img.shields.io/github/followers/treygrr?style=flat&logo=github&label=followers)](https://github.com/treygrr)
 [![Contributions](https://img.shields.io/badge/contributions-open%20source-00DC82?style=flat&logo=nuxt)](https://github.com/pulls?q=is%3Apr+author%3Atreygrr+is%3Amerged)
+
+## 🔨 Things I've built
+
+- 🛒 Frontends for massive e-commerce sites
+- 🏢 Websites for businesses of all kinds, from power companies to nonprofits
+- 🃏 An image classifier I trained myself that recognizes over 10,000 Pokémon cards with extremely high accuracy
+- 🔌 Programmed USB controllers for servo gadgets, which power random things like 3D-printed CNC machines and automatic door closers
+- 🍓 Plenty of Raspberry Pi projects, because I'm a Raspberry Pi enthusiast
+
+**Stack I've worked with**
+
+- **Web:** Vue, Nuxt, React, Next.js, Ionic, Cordova
+- **Backend:** Node, Bun, PHP, Laravel, ExpressionEngine, Craft CMS
+- **Data:** Postgres, MySQL
+- **Infra:** Docker, Docker Compose, Kubernetes (k3s)
+- **Games & hardware:** C#, C++, Unity, Godot, Raspberry Pi
 
 ## <img src="https://treygrr.github.io/nuxt-airplane/logo.png" height="28" alt="nuxt-airplane logo"> nuxt-airplane
 
