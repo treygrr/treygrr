@@ -1,6 +1,14 @@
 # Hi, I'm Trey <img src="https://cdn3.emoji.gg/emojis/495977-wavingwelcomecat.gif" height="40" alt="Cat waving">
 
-I write code to scratch my own itch. When something in the Nuxt ecosystem slows me down, at work or on a side project, I build the fix and share it.
+I'm a full-stack developer who writes code to scratch my own itch. When something in the Nuxt ecosystem slows me down, at work or on a side project, I build the fix and share it.
+
+- 🏠 Running a homelab that is absolutely more Kubernetes than one person needs
+- 🤫 Building something top secret. That's all I can say for now
+- 🎮 Away from the keyboard I'm gaming, making music in Ableton, poking at 3D in Blender, or sketching whatever's in front of me
+- 📺 Favorite shows: Avatar: The Last Airbender, Avatar: Seven Havens, and From on MGM+
+- 📚 Currently reading the Empyrean series by Rebecca Yarros
+- 🌱 Growing two orange trees, plus Carolina Reapers and jalapeños in two VIVOSUN grow boxes. The peppers become pepper jam
+- 🐾 Ruled by one gecko and three cats: Gekky the gecko, Little Biscuit (Lil Biscuit for short, a long-haired Japanese Bobtail), Grimmy (aka Grims, Grimward, the Little Waste Management), and Niko the Cinnamon Swirl, because he's sweet and his coat looks like cinnamon
 
 [![GitHub followers](https://img.shields.io/github/followers/treygrr?style=flat&logo=github&label=followers)](https://github.com/treygrr)
 [![Contributions](https://img.shields.io/badge/contributions-open%20source-00DC82?style=flat&logo=nuxt)](https://github.com/pulls?q=is%3Apr+author%3Atreygrr+is%3Amerged)
