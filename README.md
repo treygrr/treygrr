@@ -99,7 +99,7 @@ I also contribute upstream, for example [nuxt-modules/better-auth](https://githu
 [Tempo](https://grafana.com/oss/tempo/) ·
 [Alloy](https://grafana.com/oss/alloy/)
 
-## 🖥️ fastfetch
+## <img src="assets/huh.gif" height="28" alt="Huh"> fastfetch
 
 <img src="https://cdn3.emoji.gg/emojis/77013-nyancat.gif" width="64" alt="Nyan cat">
 
