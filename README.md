@@ -17,14 +17,14 @@ Airplane mode for your GraphQL app. Typed composables from your `.gql` files, an
 
 ## 💚 Nuxt modules
 
-- 📧 [nuxt-generation-emails](https://github.com/treygrr/nuxt-generation-emails). Author, preview, and send transactional emails with MJML + Handlebars, with typed API routes for every template.
 - 🔐 [nuxt-better-auth-ui](https://github.com/treygrr/nuxt-better-auth-ui). Sign-in, account, organization, and admin pages for Better Auth, built with Nuxt UI.
 - 🔭 [nuxt-opentelemetry](https://github.com/treygrr/nuxt-opentelemetry). OpenTelemetry tracing for Nuxt servers, with request spans named after your Nuxt routes.
+- 📧 [nuxt-generation-emails](https://github.com/treygrr/nuxt-generation-emails) (abandoned). Author, preview, and send transactional emails with MJML + Handlebars, with typed API routes for every template.
 
 ## 🟩 Vue
 
-- ✉️ [vjml](https://github.com/treygrr/vjml). MJML-style email components for Vue, with typed exports and browser-side rendering.
 - 🎮 [playcanvas-vue](https://github.com/treygrr/playcanvas-vue). A Vue renderer for PlayCanvas: interactive 3D, written declaratively.
+- ✉️ [vjml](https://github.com/treygrr/vjml) (abandoned). MJML-style email components for Vue, with typed exports and browser-side rendering.
 
 ## 🧰 More projects
 
