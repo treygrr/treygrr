@@ -15,7 +15,7 @@ Airplane mode for your GraphQL app. Typed composables from your `.gql` files, an
 
 [GitHub](https://github.com/treygrr/nuxt-airplane) · [Documentation](https://treygrr.github.io/nuxt-airplane/)
 
-## 💚 Nuxt modules
+## <img src="assets/wall-peek.gif" height="28" alt="Wall Peek"> Nuxt modules
 
 - 🔐 [nuxt-better-auth-ui](https://github.com/treygrr/nuxt-better-auth-ui). Sign-in, account, organization, and admin pages for Better Auth, built with Nuxt UI.
 - 🔭 [nuxt-opentelemetry](https://github.com/treygrr/nuxt-opentelemetry). OpenTelemetry tracing for Nuxt servers, with request spans named after your Nuxt routes.
