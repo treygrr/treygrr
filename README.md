@@ -21,7 +21,7 @@ Airplane mode for your GraphQL app. Typed composables from your `.gql` files, an
 - 🔭 [nuxt-opentelemetry](https://github.com/treygrr/nuxt-opentelemetry). OpenTelemetry tracing for Nuxt servers, with request spans named after your Nuxt routes.
 - 📧 [nuxt-generation-emails](https://github.com/treygrr/nuxt-generation-emails) (abandoned). Author, preview, and send transactional emails with MJML + Handlebars, with typed API routes for every template.
 
-## 🟩 Vue
+## <img src="assets/party-zoom.gif" height="28" alt="Party Zoom"> Vue
 
 - 🎮 [playcanvas-vue](https://github.com/treygrr/playcanvas-vue). A Vue renderer for PlayCanvas: interactive 3D, written declaratively.
 - ✉️ [vjml](https://github.com/treygrr/vjml) (abandoned). MJML-style email components for Vue, with typed exports and browser-side rendering.
