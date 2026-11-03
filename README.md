@@ -24,7 +24,7 @@ I'm a full-stack developer who writes code to scratch my own itch. When somethin
 
 **Stack I've worked with**
 
-- **Web:** Vue, Nuxt, React, Next.js, Ionic, Cordova
+- **Web:** Vue, Nuxt, Quasar, React, Next.js, Ionic, Cordova
 - **Backend:** Node, Bun, PHP, Laravel, ExpressionEngine, Craft CMS
 - **Data:** Postgres, MySQL
 - **Infra:** Docker, Docker Compose, Kubernetes (k3s)
