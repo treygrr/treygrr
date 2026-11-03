@@ -68,7 +68,7 @@ I also contribute upstream, for example [nuxt-modules/better-auth](https://githu
 
 [See my merged PRs](https://github.com/pulls?q=is%3Apr+author%3Atreygrr+is%3Amerged)
 
-## 🛠️ Tools
+## <img src="assets/extreme-teamwork.gif" height="28" alt="Extreme teamwork"> Tools
 
 - 💻 [Code - OSS](https://github.com/microsoft/vscode), the open-source build of VS Code
 - 🤖 [Claude Code](https://claude.com/claude-code)
