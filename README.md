@@ -67,3 +67,61 @@ Airplane mode for your GraphQL app. Typed composables from your `.gql` files, an
 I also contribute upstream, for example [nuxt-modules/better-auth](https://github.com/nuxt-modules/better-auth/pull/649) (fixed reading buffered bodies of in-process requests on Nitro 2).
 
 [See my merged PRs](https://github.com/pulls?q=is%3Apr+author%3Atreygrr+is%3Amerged)
+
+## 🛠️ Tools
+
+- 💻 [Code - OSS](https://github.com/microsoft/vscode), the open-source build of VS Code
+- 🤖 [Claude Code](https://claude.com/claude-code)
+- 🌐 [Chromium](https://www.chromium.org/)
+- 🧪 [Nuxt DevTools](https://devtools.nuxt.com/)
+- 📦 [pnpm](https://pnpm.io/) and [Node.js](https://nodejs.org/)
+- 🐙 [GitHub CLI](https://cli.github.com/)
+- 🐱 [kitty](https://sw.kovidgoyal.net/kitty/) for my terminal
+- 🌙 [Noctalia](https://github.com/noctalia-dev/noctalia-shell) enthusiast. The best-looking shell on Wayland, no contest
+
+## ❤️ Software I like
+
+**Desktop & gaming:** OpenCraft · [Steam](https://store.steampowered.com/) · [Proton](https://github.com/ValveSoftware/Proton) · [Wine](https://www.winehq.org/) · [Docker](https://www.docker.com/)
+
+**Homelab:** my homelab is a single-node GitOps cluster built on
+[k3s](https://k3s.io/) ·
+[Argo CD](https://argo-cd.readthedocs.io/) ·
+[Kustomize](https://kustomize.io/) ·
+[cert-manager](https://cert-manager.io/) + [Let's Encrypt](https://letsencrypt.org/) ·
+[External Secrets](https://external-secrets.io/) + [Bitwarden Secrets Manager](https://bitwarden.com/products/secrets-manager/) ·
+[Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets) ·
+[CloudNativePG](https://cloudnative-pg.io/) ·
+[Cloudflare](https://www.cloudflare.com/) 🧡 (Tunnel + Access) ·
+[Tailscale](https://tailscale.com/) ·
+[Prometheus](https://prometheus.io/) ·
+[Grafana](https://grafana.com/) ·
+[Loki](https://grafana.com/oss/loki/) ·
+[Tempo](https://grafana.com/oss/tempo/) ·
+[Alloy](https://grafana.com/oss/alloy/)
+
+## 🖥️ fastfetch
+
+```
+           .-------------------------:                    trey@gaystation
+          .+=========================.                    ---------------
+         :++===++==================-       :++-           OS: CachyOS x86_64
+        :*++====+++++=============-        .==:           Host: B650 AORUS ELITE AX ICE
+       -*+++=====+***++==========:                        Kernel: Linux 7.3.0-5-cachyos
+      =*++++========------------:                         Packages: 1230 (pacman), 15 (flatpak)
+     =*+++++=====-                     ...                Shell: zsh 5.9.2
+   .+*+++++=-===:                    .=+++=:              Display: 3440x1440 in 34", 240 Hz
+  :++++=====-==:                     -*****+              WM: Hyprland 0.57.0 (Wayland)
+ :++========-=.                      .=+**+.              Theme: adw-gtk3-dark [GTK], Fusion [Qt]
+.+==========-.                          .                 Icons: breeze
+ :+++++++====-                                .--==-.     Cursor: Bibata-Modern-Ice
+  :++==========.                             :+++++++:    CPU: AMD Ryzen 9 7900X3D (24) @ 5.66 GHz
+   .-===========.                            =*****+*+    GPU: NVIDIA GeForce RTX 5080
+    .-===========:                           .+*****+:    Memory: 62.4 GiB   
+      -=======++++:::::::::::::::::::::::::-:  .---:      Disk: 1.82 TiB (btrfs)
+       :======++++====+++******************=.             
+        :=====+++==========++++++++++++++*-               
+         .====++==============++++++++++*-                
+          .===+==================+++++++:                 
+           .-=======================+++:                  
+             ..........................                   
+```
