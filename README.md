@@ -79,7 +79,7 @@ I also contribute upstream, for example [nuxt-modules/better-auth](https://githu
 - 🐱 [kitty](https://sw.kovidgoyal.net/kitty/) for my terminal
 - 🌙 [Noctalia](https://github.com/noctalia-dev/noctalia-shell) enthusiast. The best-looking shell on Wayland, no contest
 
-## ❤️ Software I like
+## <img src="assets/meow-party.gif" height="28" alt="Meow party"> Software I like
 
 **Desktop, creative & gaming:** [ArtCraft](https://github.com/storytold/artcraft) · [Blender](https://www.blender.org/) · [Ableton Live](https://www.ableton.com/en/live/) · [Steam](https://store.steampowered.com/) · [Proton](https://github.com/ValveSoftware/Proton) · [Wine](https://www.winehq.org/) · [Docker](https://www.docker.com/)
 
