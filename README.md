@@ -5,7 +5,7 @@ I write code to scratch my own itch. When something in the Nuxt ecosystem slows 
 [![GitHub followers](https://img.shields.io/github/followers/treygrr?style=flat&logo=github&label=followers)](https://github.com/treygrr)
 [![Contributions](https://img.shields.io/badge/contributions-open%20source-00DC82?style=flat&logo=nuxt)](https://github.com/pulls?q=is%3Apr+author%3Atreygrr+is%3Amerged)
 
-## ✈️ nuxt-airplane
+## <img src="https://treygrr.github.io/nuxt-airplane/logo.png" height="28" alt="nuxt-airplane logo"> nuxt-airplane
 
 Airplane mode for your GraphQL app. Typed composables from your `.gql` files, an IndexedDB cache, and a mutation queue that lands when you're back online.
 
