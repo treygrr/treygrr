@@ -81,7 +81,7 @@ I also contribute upstream, for example [nuxt-modules/better-auth](https://githu
 
 ## ❤️ Software I like
 
-**Desktop & gaming:** OpenCraft · [Steam](https://store.steampowered.com/) · [Proton](https://github.com/ValveSoftware/Proton) · [Wine](https://www.winehq.org/) · [Docker](https://www.docker.com/)
+**Desktop & gaming:** [ArtCraft](https://github.com/storytold/artcraft) · [Steam](https://store.steampowered.com/) · [Proton](https://github.com/ValveSoftware/Proton) · [Wine](https://www.winehq.org/) · [Docker](https://www.docker.com/)
 
 **Homelab:** my homelab is a single-node GitOps cluster built on
 [k3s](https://k3s.io/) ·
